@@ -1,0 +1,40 @@
+/* Reset default browser styles */
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .book-title {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .book-details {
+    font-size: 14px;
+    color: #e70f0f;
+  }
+  
+  
